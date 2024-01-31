@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my Portfolio Site](https://kalliran.github.io/michael-corleone/)
 
-- 🌱 I’m currently learning **React, SQL, Express**
+- 🌱 I’m currently learning **React, SQL, C#**
 
 - 👨‍💻 All of my projects are available at [https://kalliran.github.io/michael-corleone/](https://kalliran.github.io/michael-corleone/)
 
