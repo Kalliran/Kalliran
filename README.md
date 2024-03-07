@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Corleone</h1>
-<h3 align="center">A passionate frontend developer from Chicago</h3>
+<h3 align="center">A passionate fullstack developer from Chicago</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalliran&label=Profile%20views&color=0e75b6&style=flat" alt="kalliran" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my Portfolio Site](https://kalliran.github.io/michael-corleone/)
 
-- 🌱 I’m currently learning **Javascript, React, MongoDB, Tailwind CSS**
+- 🌱 I’m currently learning **React, SQL, C#**
 
 - 👨‍💻 All of my projects are available at [https://kalliran.github.io/michael-corleone/](https://kalliran.github.io/michael-corleone/)
 
@@ -34,7 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalliran&show_icons=true&locale=en&layout=compact" alt="kalliran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalliran&show_icons=true&locale=en" alt="kalliran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalliran&" alt="kalliran" /></p>
 
